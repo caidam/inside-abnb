@@ -6,9 +6,14 @@ Test it [here](https://caidam.github.io/inside-abnb-front/).
 
 - #### Original Architecture
 
+<img src="./misc/original-architecture.png" alt="" width=800>
+
 - #### Updated Architecture
 
 > Updated to a 100% free architecture by moving from EC2 hosting to Python Anywhere for the backend API
+
+<img src="./misc/updated-architecture.png" alt="" width=800>
+
 
 
 - #### Repos
